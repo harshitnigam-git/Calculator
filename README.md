@@ -5,6 +5,7 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 
 ## Project Preview
 Here’s a quick look at the calculator UI 
+
 ![Calculator UI Preview](./calculator-preview.png)
 
 ## Features
