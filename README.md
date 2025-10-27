@@ -4,7 +4,7 @@ A simple calculator built using **HTML, CSS, and JavaScript**.
 It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ## Project Preview
-Here’s a quick look at the calculator UI 
+Here’s a quick look at the calculator UI 👇
 
 ![Calculator UI Preview](./calculator-preview.png)
 
