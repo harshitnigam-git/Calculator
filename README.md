@@ -17,7 +17,7 @@ Here’s a quick look at the calculator UI 👇
 ## Tech Stack
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript
 
 ## How to Use
 1. Open `index.html` in your browser.  
